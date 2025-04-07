@@ -1,0 +1,232 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+
+
+header{
+    background-image: url(./images/background.jpg);
+    overflow-x: hidden;
+
+    
+
+}
+
+.first-list{
+
+    list-style: none;
+    padding:10px;
+    text-align: right;
+
+
+}
+
+.first-list li{
+    display:inline-block;
+
+}
+
+.first-list li a{
+    text-decoration: none;
+    color: white;
+    padding:5px;
+    border:1px solid white;
+}
+.logo{
+    display:inline-block;
+
+ }
+
+#banner{
+    background-image: url(./images/background.jpg);
+    color:white;
+    padding-top:5%;
+}
+
+.promo-title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+
+.play-btn{
+    width:45px;
+    margin: 20px;
+}
+
+#banner a{
+    text-decoration: none;
+    color:white;
+}
+
+
+
+
+
+.bottom-img{
+    width:100;
+}
+
+
+/*-----services section---*/
+
+#services{
+    padding:80px 0;
+
+}
+.service-img{
+    width:100px;
+    margin-top: 20px;
+   
+}
+
+.services h4{
+    margin-top: 25px;
+    text-transform: uppercase;
+    padding: 5px;
+    
+}
+
+.title::after
+{
+    content:'';
+    background: purple;
+    height:5px;
+    width:200px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+
+}
+
+#services .btn-primary{
+    border:none;
+    background-image:url(images/background.jpg);
+    border-radius: 20px;
+    padding:10px 30px;
+
+
+}
+
+/*------------aboutus section-----*/
+
+#about-us
+{
+    background:#f8f9fa;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+#about-us .second-list li{
+    margin:10px 0;
+}
+#about-us .second-list{
+    margin-left: 20px;
+}
+
+/*----------testimonials section---------------*/
+#testimonials{
+    margin:100px 0px;
+}
+
+.testimonials{
+    border-left:4px solid purple;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.testimonials img{
+    height:60px;
+    width:60px;
+    border-radius:50%;
+    margin:0 10px;
+    
+}
+
+.user-details{
+    display: inline-block;
+    font-size: 12px;
+}
+
+#social-media{
+    background:#f8f9fa;
+    padding:100px 0;
+
+}
+
+#social-media p{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.social-icons img{
+    width: 60px;
+}
+
+
+/*------------------------footer section--------------*/
+#footer{
+    background-image: url(images/background.jpg);
+    color:white;
+}
+
+.footer-img{
+    width: 100%;
+    
+}
+
+.footer-box{
+    margin-bottom: 20px;
+}
+
+.footer-box img{
+    width:120px;
+    margin-bottom: 20px;
+}
+
+#footer .btn-primary{
+    margin-top: 10px;
+    background-image: url(./images/background.jpg);
+    border: 1px solid white;
+}
+
+hr{
+    background-color: white;
+}
+
+.copyright{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ 
